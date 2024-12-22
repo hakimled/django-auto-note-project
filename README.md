@@ -1,0 +1,1 @@
+# django-auto-note-project
